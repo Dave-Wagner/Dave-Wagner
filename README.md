@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dave-Wagner
 - 👀 I’m interested in Javascript, TypeScript, Python, Rust, AI
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently working on my first real open source project
 - 💞️ I’m looking to collaborate on anything, a project would be fun!
 - 📫 How to reach me 20711387+Dave-Wagner@users.noreply.github.com
 
